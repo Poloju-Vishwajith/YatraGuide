@@ -5,7 +5,7 @@ const destinations = [
     state: "Telangana",
     image: "https://images.unsplash.com/photo-1572445271230-a78b5944a659",
     description:
-      "Explore the historic Charminar, Golconda Fort and enjoy the famous Hyderabadi cuisine.",
+      "Explore the historic Charminar, Golconda Fort and enjoy the famous Hyderabadi cuisine...",
     rating: 4.6,
     places: ["Charminar", "Golconda Fort", "Hussain Sagar", "Ramoji Film City"],
     hotel: 1800,
